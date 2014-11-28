@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # File name: shellshock.py
-# Author: Sagi Levy - Sagi@LucifeR.co.il
+# Author: Sagi Levy - Sagi@pwnguy.com
 # Date created: 27/09/2014
 # Python Version: 2.7
 # Description: 	A simple shell-like exploit for the Shellschok CVE-2014-6271 bug.

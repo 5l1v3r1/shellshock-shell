@@ -8,7 +8,7 @@ The author of this tool takes no responsibility for its usage.
 
 File name: shellshock.py
 
-Author: Sagi Levy - Sagi@LucifeR.co.il
+Author: Sagi Levy - Sagi@pwnguy.com
 
 Date created: 27/09/2014
 
